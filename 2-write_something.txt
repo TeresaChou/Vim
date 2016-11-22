@@ -1,0 +1,36 @@
+# Practice 2 - write something
+# I - insert at beginning
+# A - append at end
+# edit the 2 lines with your name!
+
+My name is Teresa 
+Teresa is my name 
+
+#Complete these line!
+
+4 + 3 = 7
+1 + 2 = 3
+To be or not to be, that is the question.
+density = mass / volumn
+Vim is the coolest editor !!
+
+# i - insert before cursor
+# a - append after cursor
+
+5 - 3 = 2
+I am 22 years old
+press i to insert in vim
+and press a to append
+
+# o - new line after
+# O - new line before
+# There are 8 lines below
+line 1
+line 2
+line 3
+line 4
+line 5
+line 6
+line 7
+line 8
+
